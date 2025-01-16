@@ -3,7 +3,7 @@ import yfinance as yf
 import plotly.graph_objects as go
 
 # Title and description
-st.title("📈 Stock Candlestick Predictor!")
+st.title("📈 TradeTorch's Stock Candlestick Predictor!")
 st.write("Select a stock from the dropdown below:")
 
 # Dropdown menu with 5 preloaded stocks
